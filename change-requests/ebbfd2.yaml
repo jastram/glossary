@@ -1,0 +1,37 @@
+id: ebbfd2
+author:
+  username: jastram
+  name: Michael Jastram
+  email: michael@jastram.de
+timeCreated: 2021-08-11T12:17:00.977Z
+revisions: {}
+meta:
+  registry:
+    stage: Draft
+  submitter:
+    primaryPerson:
+      name: Michael Jastram
+      email: michael@jastram.de
+      affiliation: ''
+_revisions:
+  current: d10b7b
+  tree:
+    d10b7b:
+      object:
+        id: ebbfd2
+        author:
+          username: jastram
+          name: Michael Jastram
+          email: michael@jastram.de
+        timeCreated: 2021-08-11T12:17:00.977Z
+        revisions: {}
+        meta:
+          registry:
+            stage: Draft
+          submitter:
+            primaryPerson:
+              name: Michael Jastram
+              email: michael@jastram.de
+              affiliation: ''
+      parents: []
+      timeCreated: 2021-08-11T12:17:00.977Z
