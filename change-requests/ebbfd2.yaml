@@ -4,7 +4,23 @@ author:
   name: Michael Jastram
   email: michael@jastram.de
 timeCreated: 2021-08-11T12:17:00.977Z
-revisions: {}
+revisions:
+  concepts:
+    '-1-eng':
+      object:
+        id: -1
+        language_code: eng
+        entry_status: valid
+        terms:
+          - designation: horse
+            type: expression
+            normative_status: preferred
+        definition: An animal
+        notes: []
+        examples: []
+        authoritative_source: {}
+      parents: []
+      timeCreated: 2021-08-11T12:17:01.027Z
 meta:
   registry:
     stage: Draft
@@ -24,7 +40,23 @@ _revisions:
           name: Michael Jastram
           email: michael@jastram.de
         timeCreated: 2021-08-11T12:17:00.977Z
-        revisions: {}
+        revisions:
+          concepts:
+            '-1-eng':
+              object:
+                id: -1
+                language_code: eng
+                entry_status: valid
+                terms:
+                  - designation: horse
+                    type: expression
+                    normative_status: preferred
+                definition: An animal
+                notes: []
+                examples: []
+                authoritative_source: {}
+              parents: []
+              timeCreated: 2021-08-11T12:17:01.027Z
         meta:
           registry:
             stage: Draft
