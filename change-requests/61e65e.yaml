@@ -1,0 +1,37 @@
+id: 61e65e
+author:
+  username: jastram
+  name: Michael Jastram
+  email: michael@jastram.de
+timeCreated: 2021-08-11T11:37:56.226Z
+revisions: {}
+meta:
+  registry:
+    stage: Draft
+  submitter:
+    primaryPerson:
+      name: Michael Jastram
+      email: michael@jastram.de
+      affiliation: ''
+_revisions:
+  current: '500133'
+  tree:
+    '500133':
+      object:
+        id: 61e65e
+        author:
+          username: jastram
+          name: Michael Jastram
+          email: michael@jastram.de
+        timeCreated: 2021-08-11T11:37:56.226Z
+        revisions: {}
+        meta:
+          registry:
+            stage: Draft
+          submitter:
+            primaryPerson:
+              name: Michael Jastram
+              email: michael@jastram.de
+              affiliation: ''
+      parents: []
+      timeCreated: 2021-08-11T11:37:56.226Z
