@@ -4,7 +4,23 @@ author:
   name: Michael Jastram
   email: michael@jastram.de
 timeCreated: 2021-08-11T11:37:56.226Z
-revisions: {}
+revisions:
+  concepts:
+    '-1-eng':
+      object:
+        id: -1
+        language_code: eng
+        entry_status: valid
+        terms:
+          - designation: car
+            type: expression
+            normative_status: preferred
+        definition: vehicle
+        notes: []
+        examples: []
+        authoritative_source: {}
+      parents: []
+      timeCreated: 2021-08-11T11:37:56.322Z
 meta:
   registry:
     stage: Draft
@@ -24,7 +40,23 @@ _revisions:
           name: Michael Jastram
           email: michael@jastram.de
         timeCreated: 2021-08-11T11:37:56.226Z
-        revisions: {}
+        revisions:
+          concepts:
+            '-1-eng':
+              object:
+                id: -1
+                language_code: eng
+                entry_status: valid
+                terms:
+                  - designation: car
+                    type: expression
+                    normative_status: preferred
+                definition: vehicle
+                notes: []
+                examples: []
+                authoritative_source: {}
+              parents: []
+              timeCreated: 2021-08-11T11:37:56.322Z
         meta:
           registry:
             stage: Draft
