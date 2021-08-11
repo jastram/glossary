@@ -23,7 +23,7 @@ revisions:
       timeCreated: 2021-08-11T12:17:01.027Z
 meta:
   registry:
-    stage: Proposal
+    stage: Resolved
   submitter:
     primaryPerson:
       name: Michael Jastram
@@ -68,3 +68,4 @@ _revisions:
       parents: []
       timeCreated: 2021-08-11T12:17:00.977Z
 timeSubmitted: 2021-08-11T12:17:17.075Z
+timeResolved: 2021-08-11T12:17:21.711Z
