@@ -4,7 +4,22 @@ author:
   name: Michael Jastram
   email: michael@jastram.de
 timeCreated: 2021-08-11T11:40:09.284Z
-revisions: {}
+revisions:
+  concepts:
+    '-1-eng':
+      object:
+        id: -1
+        language_code: eng
+        entry_status: valid
+        terms:
+          - designation: test
+            type: expression
+        definition: test
+        notes: []
+        examples: []
+        authoritative_source: {}
+      parents: []
+      timeCreated: 2021-08-11T11:40:09.347Z
 meta:
   registry:
     stage: Draft
@@ -24,7 +39,22 @@ _revisions:
           name: Michael Jastram
           email: michael@jastram.de
         timeCreated: 2021-08-11T11:40:09.284Z
-        revisions: {}
+        revisions:
+          concepts:
+            '-1-eng':
+              object:
+                id: -1
+                language_code: eng
+                entry_status: valid
+                terms:
+                  - designation: test
+                    type: expression
+                definition: test
+                notes: []
+                examples: []
+                authoritative_source: {}
+              parents: []
+              timeCreated: 2021-08-11T11:40:09.347Z
         meta:
           registry:
             stage: Draft
